@@ -26,7 +26,7 @@
   - The project is hosted on GitHub: [https://github.com/viluong6457/Bookstore.git]
 
 **💼 Experience:**
-- **Intern at DYD Tech Company**
+- **🖥️ Intern at DYD Tech Company**
   - Assisted in the development of web applications.
   - Collaborated with a team to meet project deadlines.
   - Gained experience in a professional work environment.
