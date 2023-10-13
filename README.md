@@ -21,9 +21,9 @@
 - Version Control: GitHub
 
 **🚀 Projects:**
-- **Online Shopping Website (Personal Project)**
+- **BookStore Website (Personal Project)**
   - Utilized ReactJS and NodeJS.
-  - The project is hosted on GitHub: [Link to GitHub project]
+  - The project is hosted on GitHub: [https://github.com/viluong6457/Bookstore.git]
 
 **💼 Experience:**
 - **Intern at DYD Tech Company**
