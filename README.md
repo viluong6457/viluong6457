@@ -1,7 +1,7 @@
 # Khưu Vĩ Lương
 
 **🏠 Contact Information:**
-- Address: 100 Binh Thoi Street, Ward 14, District 11, Ho Chi Minh City, Vietnam 
+- Address: Binh Thoi Street, Ward 14, District 11, Ho Chi Minh City, Vietnam 
 - Phone: (+84) 901213082
 - Email: viluong6457@gmail.com 
 
