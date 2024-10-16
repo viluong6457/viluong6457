@@ -12,10 +12,18 @@
 - **Bachelor of Science in Computer Science**
   - Ho Chi Minh City University of Technology – HCMUT
   - Expected Graduation: May 2025
-
+    
+- **Software Development With Scrum**
+  - Axon Active Training Course
+  - Completed
+    
+- **Fullstack Web Development**
+  - Udemy courses
+  - Completed
+  
 **💻 Skills:**
 - Programming Languages: C++, Python, JavaScript, TypeScript
-- Frontend: HTML, CSS, ReactJS
+- Frontend: HTML, CSS, ReactJS, MaterialUI, Tailwind CSS, Bootstrap
 - Backend: NodeJS, ExpressJS
 - Database: SQL Server
 - Version Control: GitHub
