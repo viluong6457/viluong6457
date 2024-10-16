@@ -28,10 +28,30 @@
 - Database: SQL Server
 - Version Control: GitHub
 
-**🚀 Projects:**
-- **BookStore Website (Personal Project)**
-  - Utilized ReactJS and NodeJS.
-  - The project is hosted on GitHub: [https://github.com/viluong6457/Bookstore.git]
+**🚀 University Project:**
+- **Website Using ChatGPT for Job Introduction**
+  - The project is hosted on GitHub: https://github.com/viluong6457/FE-DACN.git
+  - Technology used:
+    - UI Design Tool: Figma
+    - Frontend: ReactJS combined with TypeScript
+    - Backend: NodeJS
+    - Database: MySQL
+    - API: ChatGPT
+  - Team size: 4 team members
+  - My responsibilities:
+    - Integrating ChatGPT to analyze profiles and provide smart job suggestions.
+    - Using Firebase to store the system's data.
+    - Implementing the Frontend
+    
+- **BookStore Website**
+  - The project is hosted on GitHub: https://github.com/viluong6457/Bookstore.git
+  - Technology used:
+    - UI Design: Figma
+    - Frontend: ReactJS
+    - Backend: NodeJS
+    - Database: SQL Server
+  - Team size: 4 team members
+  - My responsibilities: Figma design, Frontend implementation, and API integration for the Account Verification and Customer Management pages.
 
 **💼 Experience:**
 - **🖥️ Intern at DYD Tech Company**
